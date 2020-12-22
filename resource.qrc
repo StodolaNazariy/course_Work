@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Sheet-Music-Icon.png</file>
+    </qresource>
+</RCC>
